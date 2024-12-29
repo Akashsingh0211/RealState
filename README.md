@@ -1,4 +1,4 @@
-##Real Estate Platform
+## Real Estate Platform 
 
 A comprehensive Real Estate Platform built with the MERN stack (MongoDB, Express, React, Node.js). 
 This application features functionalities for property listing, search, and user management, including a login and signup system.
